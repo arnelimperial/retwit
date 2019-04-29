@@ -1,5 +1,5 @@
 <h2 align=center>Retwit</h2>
-> Automating retweets and favorites based on searches.
+Automating retweets and favorites based on searches.
 
 ## Python libraries
 - Twython
